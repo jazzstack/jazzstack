@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=650&lines=Shubhadeep+Dutta;Web+Designer+%26+Developer;Linux+Enthusiast;Building+beautiful+digital+experiences)](https://git.io/typing-svg)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jazzstack&color=ffd3d9&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=jazzstack&color=000000&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -23,44 +21,80 @@
 
 ---
 
-<img align="left" src="assets/profile_pic.jpg" width="310"/>
+<table>
+<tr>
 
-```console
-                   -`                    jazzstack@github
-                  .o+`                   -------------------------
-                 `ooo/                   Name    : Shubhadeep Dutta
-                `+oooo:                  Role    : Web Designer & Developer
-               `+oooooo:                 OS      : Arch Linux
-               -+oooooo+:                WM      : Hyprland
-             `/:-:++oooo+:               Shell   : zsh
-            `/++++/+++++++:              Editor  : VS Code
-           `/++++++++++++++:             Stack   : React • TypeScript
-          `/+++ooooooooooooo/`           CSS     : Tailwind CSS
-         ./ooosssso++osssssso+`          Backend : Node.js • Supabase
-        .oossssso-````/ossssss+`         Docker  : ✓
-       -osssssso.      :ssssssso.        Linux   : Daily Driver
-      :osssssss/        osssso+++.       Homelab : Self-hosted Services
-     /ossssssss/        +ssssooo/-       Hobby   : UI Design
-   `/ossssso+/:-        -:/+osssso+-     Extras  : Arch Rice • Photography
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
-```
+<td width="320" valign="top">
 
-<br clear="left"/>
+<img src="https://cdn.discordapp.com/attachments/1522604598043349154/1522604631832924330/profile_pic.jpg?ex=6a491390&is=6a47c210&hm=b9173851c94e6d5842c66cbf9e14220eed1364331d7d9ab14787e5319607d42a&" width="300"/>
+
+</td>
+
+<td valign="top">
+
+<pre>
+                                       _.oo.
+                 _.u[[/;:,.         .odMMMMMM'
+              .o888UU[[[/;:-.  .o@P^    MMM^
+             oN88888UU[[[/;::-.        dP^
+            dNMMNN888UU[[[/;:--.   .o@P^
+           ,MMMMMMN888UU[[/;::-. o@^
+           NNMMMNN888UU[[[/~.o@P^
+           888888888UU[[[/o@^-..
+          oI8888UU[[[/o@P^:--..
+       .@^  YUU[[[/o@^;::---..
+     oMP     ^/o@P^;:::---..
+  .dMMM    .o@^ ^;::---...
+ dMMMMMMM@^`       `^^^^
+YMMMUP^
+ ^^
+
+jazzstack@github
+────────────────────────────
+
+Name      Shubhadeep Dutta
+Role      Web Designer & Developer
+Focus     UI / UX • Product Design
+Stack     React • TypeScript
+CSS       Tailwind CSS
+Backend   Node.js • Supabase
+OS        Arch Linux
+WM        Hyprland
+Editor    VS Code
+Terminal  Ghostty
+Docker    ✓
+Homelab   Self-hosted
+</pre>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-> Building products with a strong focus on design, performance, and user experience.
+> Building products with a strong focus on design, performance and user experience.
 
-- 🎨 Beautiful & responsive websites
-- 📊 Full-stack dashboards
-- 💎 Business management systems
-- 🐳 Self-hosted homelab services
-- ⚡ Modern React & TypeScript applications
-- 🐧 Linux workflows and customization
+- 💎 Diamond Management System
+- 🎨 Modern Websites & Landing Pages
+- 📊 Full-stack Dashboards
+- 🖥️ Homelab Dashboard
+- 🐳 Docker & Self-hosted Services
+- ⚡ React & TypeScript Applications
+- 🎯 UI / UX Focused Products
+- 🐧 Linux Workflows & Automation
+
+---
+
+# ⚒️ Toolbox
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,supabase,docker,linux,arch,bash,git,github,figma,vscode&perline=7"/>
+
+</p>
 
 ---
 
@@ -86,26 +120,18 @@
 
 <p align="center">
 
-[![Shubhadeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jazzstack&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true)](https://github.com/jazzstack)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jazzstack&bg_color=ffffff&color=000000&line=000000&point=555555&area=true&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🛠️ Current Interests
+# 📷 Outside of Coding
 
 ```text
-✓ Web Design
-✓ Frontend Development
-✓ Product Design
-✓ Linux
-✓ Arch Linux Ricing
-✓ Hyprland
-✓ Homelab
-✓ Docker
-✓ Self Hosting
-✓ UI / UX
-✓ Open Source
+Video Games
+Movies/Web Series
+Coffee + Good Music
 ```
 
 ---
@@ -115,19 +141,19 @@
 <p align="center">
 
 <a href="https://github.com/jazzstack">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:sd.shubhadeep@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOURUSERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/YOURUSERNAME">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x">
+<a href="https://www.behance.net/shubhadeep" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 
 </p>
@@ -136,6 +162,6 @@
 
 <p align="center">
 
-*"I use Arch, btw."* 🐧
+### 💭 Philosophy
 
-</p>
+*"Good design is invisible. Great engineering feels effortless."*
