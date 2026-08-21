@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/city-rain.jpg" alt="" width="100%" />
+<img src="https://cdn.discordapp.com/attachments/1536679782916558888/1539963433540255785/04.jpg?ex=6a88e2f5&is=6a879175&hm=099b9e2e033475a7036df5ceedfaac22b89e6e6bf9ff59df43915dbb6d75b7fb&" alt="" width="100%" />
 
 <br/>
 
