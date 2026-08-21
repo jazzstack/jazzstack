@@ -8,9 +8,7 @@
 
 ---
 
-- **currently working on** — full-stack web apps & dashboards
-- **ask me about** — react, typescript, node.js, supabase, self-hosting
-- **daily drivers** — arch linux · hyprland · ghostty · vs code
+- **currently working on** — [openmouse](https://github.com/OpenMouse-Project/openmouse)
 
 ## languages and tools
 
@@ -22,9 +20,9 @@
 <img src="https://img.shields.io/badge/node.js-111111?style=flat-square&logo=nodedotjs&logoColor=E5E0D5" alt="node.js" />
 <img src="https://img.shields.io/badge/supabase-111111?style=flat-square&logo=supabase&logoColor=E5E0D5" alt="supabase" />
 <img src="https://img.shields.io/badge/docker-111111?style=flat-square&logo=docker&logoColor=E5E0D5" alt="docker" />
+<img src="https://img.shields.io/badge/bash-111111?style=flat-square&logo=gnubash&logoColor=E5E0D5" alt="bash" />
 <img src="https://img.shields.io/badge/git-111111?style=flat-square&logo=git&logoColor=E5E0D5" alt="git" />
 <img src="https://img.shields.io/badge/github-111111?style=flat-square&logo=github&logoColor=E5E0D5" alt="github" />
 <img src="https://img.shields.io/badge/vs%20code-111111?style=flat-square&logo=visualstudiocode&logoColor=E5E0D5" alt="vs code" />
-<img src="https://img.shields.io/badge/arch%20linux-111111?style=flat-square&logo=archlinux&logoColor=E5E0D5" alt="arch linux" />
 
 </p>
