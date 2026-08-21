@@ -14,7 +14,7 @@
 &nbsp;
 <img src="https://cdn.simpleicons.org/docker/E5E0D5" height="26" alt="docker" />
 
-*building full-stack web apps with react, typescript & node.js*
+*self-taught developer — building real things for the web*
 
 </div>
 
