@@ -4,6 +4,16 @@
 
 # developer
 
+<img src="https://cdn.simpleicons.org/react/E5E0D5" height="26" alt="react" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/E5E0D5" height="26" alt="typescript" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/E5E0D5" height="26" alt="node.js" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/supabase/E5E0D5" height="26" alt="supabase" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/docker/E5E0D5" height="26" alt="docker" />
+
 *building full-stack web apps with react, typescript & node.js*
 
 </div>
