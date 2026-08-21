@@ -2,13 +2,16 @@
 
 <img src="./assets/header.jpg" alt="" width="500" />
 
-**developer**
+# developer
+
+*building full-stack web apps with react, typescript & node.js*
 
 </div>
 
 ---
 
-- **currently working on** — [openmouse](https://github.com/OpenMouse-Project/openmouse)
+- 🔭 **currently working on** — [openmouse](https://github.com/OpenMouse-Project/openmouse)
+- 👯 **looking to collaborate on** — web apps & open source
 
 ## languages and tools
 
@@ -26,3 +29,11 @@
 <img src="https://img.shields.io/badge/vs%20code-111111?style=flat-square&logo=visualstudiocode&logoColor=E5E0D5" alt="vs code" />
 
 </p>
+
+## github stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzstack&layout=compact&hide_border=true&bg_color=111111&title_color=E5E0D5&text_color=BFBFBF" alt="top languages" />
+
+</div>
