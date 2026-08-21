@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.jpg" alt="" width="500" />
+<img src="./assets/hero.jpg" alt="" width="100%" />
 
 # developer
 
@@ -16,9 +16,16 @@
 
 <p align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,supabase,docker,bash,git,github,vscode&perline=10&theme=dark" alt="tools" />
-</a>
+<img src="https://img.shields.io/badge/react-111111?style=flat-square&logo=react&logoColor=E5E0D5" alt="react" />
+<img src="https://img.shields.io/badge/typescript-111111?style=flat-square&logo=typescript&logoColor=E5E0D5" alt="typescript" />
+<img src="https://img.shields.io/badge/tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=E5E0D5" alt="tailwind" />
+<img src="https://img.shields.io/badge/node.js-111111?style=flat-square&logo=nodedotjs&logoColor=E5E0D5" alt="node.js" />
+<img src="https://img.shields.io/badge/supabase-111111?style=flat-square&logo=supabase&logoColor=E5E0D5" alt="supabase" />
+<img src="https://img.shields.io/badge/docker-111111?style=flat-square&logo=docker&logoColor=E5E0D5" alt="docker" />
+<img src="https://img.shields.io/badge/bash-111111?style=flat-square&logo=gnubash&logoColor=E5E0D5" alt="bash" />
+<img src="https://img.shields.io/badge/git-111111?style=flat-square&logo=git&logoColor=E5E0D5" alt="git" />
+<img src="https://img.shields.io/badge/github-111111?style=flat-square&logo=github&logoColor=E5E0D5" alt="github" />
+<img src="https://img.shields.io/badge/vs%20code-111111?style=flat-square&logo=visualstudiocode&logoColor=E5E0D5" alt="vs code" />
 
 </p>
 
