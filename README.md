@@ -2,11 +2,9 @@
 
 <img src="./assets/city-rain.jpg" alt="" width="100%" />
 
-⛧
+<br/>
 
-# Shubhadeep Dutta
-
-*designer & developer — crafting quiet interfaces in the dark*
+designer & developer
 
 <br/>
 
@@ -18,8 +16,6 @@
 
 <br/><br/>
 
-`react` &nbsp;·&nbsp; `typescript` &nbsp;·&nbsp; `tailwind css` &nbsp;·&nbsp; `node.js` &nbsp;·&nbsp; `supabase` &nbsp;·&nbsp; `docker`
-
-`arch linux` &nbsp;·&nbsp; `hyprland` &nbsp;·&nbsp; `vs code` &nbsp;·&nbsp; `figma`
+`react` · `typescript` · `tailwind` · `node.js` · `supabase` · `docker` · `figma` · `arch linux`
 
 </div>
