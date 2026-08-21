@@ -14,7 +14,11 @@
 
 <div align="center">
 
-### [âŒ¨ï¸ openmouse](https://github.com/OpenMouse-Project/openmouse)
+### [openmouse](https://github.com/OpenMouse-Project/openmouse)
+
+*open-source gaming-mouse configuration app that runs in the browser*
+
+`typescript` · **1.3k** stars
 
 <img width="430" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=OpenMouse-Project&repo=openmouse&bg_color=111111&title_color=E5E0D5&text_color=BFBFBF&icon_color=E5E0D5&hide_border=true" alt="openmouse" />
 
