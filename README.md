@@ -16,6 +16,8 @@
 
 *building real things for the web*
 
+<a href="https://hello-terminal.vercel.app/"><img src="https://img.shields.io/badge/%7E%2Fhello--terminal-111111?style=flat-square&logo=gnubash&logoColor=E5E0D5" alt="portfolio" /></a>
+
 </div>
 
 ---
