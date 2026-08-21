@@ -14,7 +14,7 @@
 &nbsp;
 <img src="https://cdn.simpleicons.org/docker/E5E0D5" height="26" alt="docker" />
 
-*self-taught developer — building real things for the web*
+*building real things for the web*
 
 </div>
 
