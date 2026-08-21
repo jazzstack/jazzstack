@@ -42,9 +42,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jazzstack&show_icons=true&hide_border=true&bg_color=111111&title_color=E5E0D5&text_color=BFBFBF&icon_color=E5E0D5" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=jazzstack&hide_border=true&background=111111&border=333333&stroke=E5E0D5&ring=E5E0D5&fire=E5E0D5&currStreakNum=E5E0D5&sideNums=BFBFBF&currStreakLabel=E5E0D5&sideLabels=BFBFBF&dates=8C8C8C" alt="streak" />
-
-<img width="430" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jazzstack&layout=compact&hide_border=true&bg_color=111111&title_color=E5E0D5&text_color=BFBFBF" alt="top languages" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jazzstack&layout=compact&hide_border=true&bg_color=111111&title_color=E5E0D5&text_color=BFBFBF" alt="top languages" />
 
 </div>
 
