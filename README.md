@@ -2,7 +2,7 @@
 
 <img src="./assets/hero.jpg" alt="" width="100%" />
 
-# developer
+# </> Full Stack Developer
 
 <img src="https://cdn.simpleicons.org/react/E5E0D5" height="26" alt="react" />
 &nbsp;
