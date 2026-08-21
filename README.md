@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="" width="100%" />
+<img src="./assets/city-rain.jpg" alt="" width="100%" />
 
 ⛧
 
